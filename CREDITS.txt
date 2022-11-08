@@ -2,4 +2,6 @@ This program, Nodes2Python, is made by Vuice (@dubsyne at sticknodes.com, Dubsty
 
 If you plan to distribute this program, please include a copy of this text document in your distribution, unmodified.
 
+I also do not accept any responsibility due to any damage done to your computer due to this program -- No harm is even intended to be done with this program either.
+
 Extra special thanks to Vince the Animator for figuring out how to read .nodes and documenting the process. Without him, this wouldn't really have been possible.
